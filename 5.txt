@@ -1,0 +1,7 @@
+<html>
+<p>
+name= Olawale
+class=Basic 5
+prinnt(name)
+ </p>
+</html>
